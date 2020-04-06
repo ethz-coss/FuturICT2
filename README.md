@@ -25,7 +25,7 @@ Futhermore these repositories are related:
 
 ### FuturICT 2.0 - Finance 4.0 eBook
 
-- eBook: "FuturICT 2.0: Towards a sustainable digital society with a socio-ecological finance system (Finance 4.0)": [fin4-ebook](https://github.com/FuturICT2/fin4-ebook)
+- eBook, explaining the overall concept: "FuturICT 2.0: Towards a sustainable digital society with a socio-ecological finance system (Finance 4.0)": [FIN4ebook](https://github.com/FuturICT2/FIN4ebook)
 
 ## Blockchain block courses
 
