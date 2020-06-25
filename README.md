@@ -1,7 +1,7 @@
 # FuturICT 2.0 research project
 
 <p align="center">
-<a href="https://futurict2.eu/"><img src="https://github.com/FuturICT2/FIN4Xplorer/blob/master/public/project-logos/FuturICT2_logo_on_white.png" width="500" ></a>
+<a href="https://futurict2.eu/"><img src="https://github.com/FuturICT2/FIN4Xplorer/blob/main/public/project-logos/FuturICT2_logo_on_white.png" width="500" ></a>
 </p>
 
 The repositories of the FuturICT 2.0 research project are located at [github.com/FuturICT2](https://github.com/FuturICT2). Both archived and active repositories from the Finance 4.0 project as well as two collections of student work from blockchain block courses can be found there.
@@ -16,6 +16,8 @@ The distributed app FIN4Xplorer consists of:
 
 Futhermore these repositories are related:
 - The documentation for using the DApp: [FIN4Documentation](https://github.com/FuturICT2/FIN4Documentation)
+- A faucet for users to request Test-Ether: [FIN4FaucetServer](https://github.com/FuturICT2/FIN4FaucetServer)
+- Server relaying contract events: [FIN4NotificationServer](https://github.com/FuturICT2/FIN4NotificationServer)
 - Code for IoT devices that approve claims: [FIN4Sensors](https://github.com/FuturICT2/FIN4Sensors)
 - Server bridge for forwarding sensor signals onto the blockchain: [FIN4OracleEngine](https://github.com/FuturICT2/FIN4OracleEngine)
 
