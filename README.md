@@ -29,7 +29,8 @@ Futhermore these repositories are related:
 
 - eBook, explaining the overall concept: "FuturICT 2.0: Towards a sustainable digital society with a socio-ecological finance system (Finance 4.0)": [FIN4ebook](https://github.com/FuturICT2/FIN4ebook)
 
-## Blockchain block courses
+## Blockchain courses
 
-- Blockchain And the Internet of Things | February 12-16, 2018: [BIOTS-2018](https://github.com/FuturICT2/BIOTS-2018)
-- Blockchain School for Sustainability | February 11-15, 2019: [BETH-2019](https://github.com/FuturICT2/BETH-2019)
+- Blockchain and the Internet of Things | block course from February 12-16, 2018: [BIOTS-2018](https://github.com/FuturICT2/BIOTS-2018)
+- Blockchain School for Sustainability | block course from February 11-15, 2019: [BETH-2019](https://github.com/FuturICT2/BETH-2019)
+- Sustainable DAOs: Blockchains, Smart Contracts and Value-Sensitive Token Design | course in the autumn semester 2020: [link to VZZ](http://vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lang=en&lerneinheitId=142566&semkez=2020W&ansicht=KATALOGDATEN&) --> 4 repositories of student groups, the repository-names start with "susDAO" + 1 repository used for the Ethereum introduction lecture called [susDAO-demos](https://github.com/FuturICT2/susDAO-demos)
